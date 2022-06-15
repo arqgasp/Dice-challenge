@@ -17,4 +17,4 @@ Web application I developed in the Udemy bootcamp course by Angela Yu.
   
   ---
 
-<p align="center"> 2021 by: Gabriel Pereira
+<p align="center"> 2021 by: Gabriel e Silva Pereira
